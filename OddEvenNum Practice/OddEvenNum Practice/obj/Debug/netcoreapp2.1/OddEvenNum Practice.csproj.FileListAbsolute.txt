@@ -1,0 +1,11 @@
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.csprojAssemblyReference.cache
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.csproj.CoreCompileInputs.cache
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.AssemblyInfoInputs.cache
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.AssemblyInfo.cs
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\bin\Debug\netcoreapp2.1\OddEvenNum Practice.deps.json
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\bin\Debug\netcoreapp2.1\OddEvenNum Practice.runtimeconfig.json
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\bin\Debug\netcoreapp2.1\OddEvenNum Practice.runtimeconfig.dev.json
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\bin\Debug\netcoreapp2.1\OddEvenNum Practice.dll
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\bin\Debug\netcoreapp2.1\OddEvenNum Practice.pdb
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.dll
+C:\CC6\PRACTICE LABS(APRIL 2019)\OddEvenNum Practice\OddEvenNum Practice\obj\Debug\netcoreapp2.1\OddEvenNum Practice.pdb
